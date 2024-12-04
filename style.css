@@ -1,0 +1,48 @@
+/* Comentario */
+body{
+    background-color:#c7fcd7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+
+}
+
+img{
+    height: 200px;
+    border-radius: 50px;
+}
+nav{
+    background-color: #d9ab91;
+}
+/* Los puntos .NOMBRE es para identificar las clases */
+.img_galeria{
+    height: 400px;
+    opacity: 0.9;
+    border: solid;
+}
+.imagenes{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    border: solid;
+    display: flex;
+}
+
+.autorretrato{
+    text-align: center;
+}
+ /* Links de referencia
+    https://cssgradient.io/
+    https://paletadecolores.com.mx/paleta/c7fcd7/d9d5a7/d9ab91/e6867a/ed4a6a/
+    https://color.adobe.com/es/create/color-wheel
+    https://colorhunt.co/
+    
+    
+    */
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
